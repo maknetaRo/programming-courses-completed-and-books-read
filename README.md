@@ -11,6 +11,7 @@ Online courses:
 9. Python Django Web Development: To-Do App - https://www.udemy.com/python-django-web-development-to-do-app/learn/v4/overview
 (July 2018)
 10. Build  A User Authentication Web App With Python and Djangohttps://www.udemy.com/build-a-user-authentication-web-app-with-python-and-django/learn/v4/overview (July 2018)
+11. Build A Crypto Currency News Site With Python And Django -  https://www.udemy.com/build-a-crypto-currency-news-site-with-python-and-django/learn/v4/overview (July 2018)
 
 
 Programming books:
