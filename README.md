@@ -12,6 +12,8 @@ Online courses:
 (July 2018)
 10. Build  A User Authentication Web App With Python and Djangohttps://www.udemy.com/build-a-user-authentication-web-app-with-python-and-django/learn/v4/overview (July 2018)
 11. Build A Crypto Currency News Site With Python And Django -  https://www.udemy.com/build-a-crypto-currency-news-site-with-python-and-django/learn/v4/overview (July 2018)
+12. Bertelsmann Data Science Challenge Scholarship Course - https://classroom.udacity.com/courses/ud002-bert ( May 8, 2018 - August 8, 2018) : Intro to Descriptive Statistics, Introduction to Python, Intro to SQL
+13. Web Design for Web Development - https://www.udemy.com/web-design-secrets/learn/v4/ (August, 2018)
 
 
 Programming books:
